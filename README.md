@@ -24,6 +24,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivaramir&" alt="sivaramir" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sivaramir&show_icons=true&locale=en" alt="sivaramir" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivaramir&show_icons=true&locale=en&layout=compact" alt="sivaramir" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sivaramir&show_icons=true&locale=en" alt="sivaramir" /></p>
+
 
