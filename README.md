@@ -1,16 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sivar</h1>
+<h1 align="center">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&&center=true&vCenter=true&width=500&height=70&pause=1000&color=00A99D&size=35&lines=Hi+There!+👋;+I'm+Sivar+Amir;+I'm+Front-End+Developer;+I'm+Software+Engineer" alt="Typing SVG" />
+</h1>
 <h3 align="center">A passionate frontend developer from Kurdistan</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"/>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaramir&label=Profile%20views&color=0e75b6&style=flat" alt="sivaramir" /> </p>
 
-- 🌱 I’m currently learning **React,Vue**
 
-- 👨‍💻 All of my projects are available at [https://sivaramir.netlify.app/](https://sivaramir.netlify.app/)
+🌱 I’m currently learning **React,Vue**
 
-- 💬 Ask me about **React,Vue**
+👨‍💻 All of my projects are available at [https://sivaramir.netlify.app/](https://sivaramir.netlify.app/)
 
-- 📫 How to reach me **sevaramer999@gmail.com**
+💬 Ask me about **React,Vue**
+
+📫 How to reach me **sevaramer999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,14 +21,33 @@
 <a href="https://instagram.com/sivar_amir2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sivar_amir2" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sivaramir&label=Profile%20views&color=0e75b6&style=flat" alt="sivaramir" /> </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sivaramir&show_icons=true&locale=en" alt="sivaramir" /></p>
+<hr/>
+ 
+<h2 >⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,java,nextjs,mysql" /><br>
+</div>
 
-<p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=sivaramir&show_icons=true&locale=en&layout=compact" alt="sivaramir" /></p>
+<br/>
+<hr/>
+<hr/>
+
+<h2 >⚡ Stats ⚡</h2>
+<br>
+<div >
+  <img width=390 align="left"src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sivaramir&color=00A99D&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
+   <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sivaramir&langs_count=8&color=00A99D&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=390 align="center" src="https://github-readme-stats-salesp07.vercel.app/api?username=sivaramir&color=00A99D&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+</div>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sivaramir&" alt="sivaramir" /></p>
+
+
 
 
