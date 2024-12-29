@@ -2,7 +2,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&&center=true&vCenter=true&width=500&height=70&pause=1000&color=00A99D&size=35&lines=Hi+There!+👋;+I'm+Sivar+Amir;+I'm+Front-End+Developer;+I'm+Software+Engineer" alt="Typing SVG" />
 </h1>
 <h3 align="center">A passionate frontend developer from Kurdistan</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
+<img align="right" alt="Coding" width="400" height=275 src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 
 
